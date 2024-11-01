@@ -1,0 +1,17 @@
+.container-time {
+    display: inline-block;
+}
+.radio-group {
+    margin-bottom: 20px;
+}
+.date-.container-time {
+    font-size: 24px;
+    margin-top: 10px;
+}
+#clock {
+    font-size: 27px;
+    margin-top: 10px;
+    color: #f00000;
+   
+}
+
